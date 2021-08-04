@@ -101,3 +101,4 @@ def main(directories):
 if __name__ == "__main__":
     sku_list = [BOOTS_DATA_PATH, SANDALS_DATA_PATH, SHOES_DATA_PATH, SLIPPERS_DATA_PATH]
     main(sku_list)
+
